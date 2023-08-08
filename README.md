@@ -1,7 +1,6 @@
 <div align="center">
-
-![cisco](https://github.com/MuhammedDemirell/Computer-Networks-Cisco-Project/assets/110243296/e066d6ec-fea7-49f1-99c5-0dcc1c39f9f9)
-
+   
+![cisco](https://github.com/MuhammedDemirell/Computer-Networks-Cisco-Project/assets/110243296/c90722ae-d590-4fd6-abfa-6b015cec2423)
 
 # Bilgisayar Ağları IP Hesaplamaları ve Cisco Packet Tracer Kullanımı
 # Computer Networks IP Calculations and Usage of Cisco Packet Tracer
